@@ -7,3 +7,11 @@ Provides:
 - HTTP backend (determine which host to forward to by DNS request based on 'Host' header in request)
 - SNI backend (determine which host to forward to by DNS request based on TLS SNI)
 - Full IP backend (forwards all ports on a certain IPv4 address to a mapped IPv6 address in the config)
+
+## Usage
+
+Run the binary with the `config` flag to specify your config file location. Config file location defaults to `/etc/nat46-multitool/config.yaml`
+
+### Development
+
+Run with `go run . --config=./config.yaml`
