@@ -20,7 +20,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-===
+---
+
 Some code based on https://github.com/AGWA/snid/, with this license:
 
 Permission is hereby granted, free of charge, to any person obtaining a
@@ -45,4 +46,5 @@ Except as contained in this notice, the name(s) of the above copyright
 holders shall not be used in advertising or otherwise to promote the
 sale, use or other dealings in this Software without prior written
 authorization.
-===
+
+---
